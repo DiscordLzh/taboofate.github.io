@@ -1,0 +1,2 @@
+# taboofate.github.io
+blog
